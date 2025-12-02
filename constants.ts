@@ -84,7 +84,7 @@ export const QUIZ_DATA: Question[] = [
 
   // Remaining questions
   { id: 58, type: QuestionType.FILL_IN_BLANK, questionText: "Amy _ _ _ _ shopping with her mother every Sunday.", correctAnswer: "goes", explanation: "Goes shopping." },
-  { id: 59, type: QuestionType.REARRANGE, questionText: "Sắp xếp câu:", rearrangeParts: ["What", "do you study", "in class?", "Geography"], correctAnswer: "What do you study in Geography class?", explanation: "Dịch: Bạn học gì trong giờ Địa lý?" },
+  { id: 59, type: QuestionType.REARRANGE, questionText: "Sắp xếp câu:", rearrangeParts: ["What", "do you study", "in", "class?", "Geography"], correctAnswer: "What do you study in Geography class?", explanation: "Dịch: Bạn học gì trong giờ Địa lý?" },
   { id: 60, type: QuestionType.FILL_IN_BLANK, questionText: "A _ _ _ _ of toothpaste is 5000 VND.", correctAnswer: "tube", explanation: "Tube of toothpaste (Tuýp kem đánh răng)." },
   { id: 61, type: QuestionType.FILL_IN_BLANK, questionText: "I'm very _ _ _ _ _ _ . Can I have something to eat?", correctAnswer: "hungry", explanation: "Hungry (Đói)." },
   { id: 62, type: QuestionType.MULTIPLE_CHOICE, questionText: "I have studied English ... eight months.", options: ["for", "since", "by", "in"], correctAnswer: "for", explanation: "For + khoảng thời gian (thì hiện tại hoàn thành)." },
